@@ -168,7 +168,7 @@ footer{
     position: absolute;
     top: 100%;
     left: 0;
-    background:yellow;
+    background: #eee;
     padding: 0;
 }
 
@@ -186,5 +186,6 @@ footer{
 
 #menu ul li:hover > ul{
     display: block;
+    background: yellow;
 }
 
