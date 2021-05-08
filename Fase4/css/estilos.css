@@ -152,7 +152,7 @@ footer{
 }
 
 #menu ul a{
-    display:block;
+    display:inline-block;
     color: #fff;
     text-decoration: none;
     font-weight: bold;
