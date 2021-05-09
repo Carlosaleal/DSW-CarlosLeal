@@ -40,6 +40,11 @@
 
 .my-youtube{
   align-items: center;
+  align-self: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  justify-self: center;
   width: 760px;
   height: 515px;
 }
